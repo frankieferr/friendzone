@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Friendzone::VERSION
   spec.authors       = ["francescoferraioli"]
   spec.email         = ["francesco.ferraioli@outlook.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{This gem makes it easy to create a framework that allows for friendships between users of an app}
+  spec.summary       = %q{This gem makes it easy to create a framework that allows for friendships between users of an app}
   spec.homepage      = ""
   spec.license       = "MIT"
 
